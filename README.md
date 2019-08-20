@@ -1,5 +1,5 @@
 # Aws CloudFormation
-a python script to create a aws stack
+a python script to create an aws stack
 
 # To use:
 ```
