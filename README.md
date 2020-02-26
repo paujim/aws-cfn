@@ -1,4 +1,4 @@
-# Aws CloudFormation
+# AWS CloudFormation
 a python script to create an aws stack
 
 # To use:
